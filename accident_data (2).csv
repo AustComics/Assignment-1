@@ -1,0 +1,16 @@
+Location,Time,Weather,RoadCondition,VehicleType,Severity
+Urban,Morning,Clear,Dry,Car,Minor
+Highway,Night,Rainy,Wet,Truck,Severe
+Suburban,Afternoon,Foggy,Wet,Motorcycle,Severe
+Urban,Night,Clear,Dry,Car,Fatal
+Highway,Morning,Clear,Dry,Bus,Minor
+Suburban,Night,Clear,Dry,Car,Minor
+Urban,Afternoon,Rainy,Wet,Motorcycle,Severe
+Highway,Night,Foggy,Wet,Truck,Fatal
+Suburban,Morning,Clear,Dry,Truck,Minor
+Urban,Afternoon,Clear,Dry,Car,Minor
+Highway,Morning,Rainy,Wet,Bus,Severe
+Urban,Night,Rainy,Wet,Car,Severe
+Suburban,Night,Clear,Dry,Motorcycle,Severe
+Highway,Afternoon,Foggy,Wet,Truck,Fatal
+Urban,Morning,Clear,Dry,Car,Minor
